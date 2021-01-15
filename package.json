@@ -5,6 +5,9 @@
   "repository": "https://github.com/Nguyen-Hoa/data-spawn.git",
   "author": "Hoa <hnguyen257@ucmerced.edu>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
